@@ -1,0 +1,180 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.container {
+    padding-bottom: 100px;
+}
+.button {
+    border: none;
+    background-color: #21B573;
+    color: white;
+    padding: 9px 25px;
+    border-radius: 30px;
+}
+.bg-color {
+    background-color: #F0FFF0;
+}
+/*****Get Started Area Start*****/
+.get-started {
+    background-color: #F0FFF0;
+}
+.get-started h6 {
+    color: #FD511A;
+    margin-bottom: 20px;
+}
+.get-started h1 {
+    font-weight: 700;
+    font-size: 50px;
+}
+.get-started span {
+    color: #21B573;
+}
+/*****Get Started Area End*****/
+
+/*****Book Area Start*****/
+.book-card {
+    margin-top: 40px;
+}
+.section-padding {
+    padding-bottom: 80px;
+}
+.card-inner {
+    padding: 50px 0px;
+    text-align: center;
+    background: #F8FFFB;
+    border-radius: 10px;
+    transition: all .4s;
+}
+.card-inner h5 {
+    margin-top: 2rem;
+}
+.card-inner img {
+    width: 65px;
+    height: 83px;
+}
+.card-inner p {
+    font-size: 16px;
+    line-height: 24px;
+    color: #585859;
+    margin-bottom: 0;
+    text-align: center;
+}
+/*****Book Area Start*****/
+
+/*****Online Courses Area Start*****/
+.data img {
+    width: 24px;
+    height: 24px;
+}
+.data h6 {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 25px;
+    color: #585859;
+    margin-left: 5px;
+}
+.card.h-100 {
+    border-radius: 12px;
+}
+/*****Online Courses Area End*****/
+
+/*****Other-area Start*****/
+.other-area {
+    background-color: #F0FFF0;
+    padding-top: 100px;
+}
+.other-area .button {
+    margin: 10px 0;
+}
+.other-area h1 {
+    line-height: 3rem;
+}
+.other-area img {
+    border-radius: 15px;
+}
+.video-imgage {
+    position: relative;
+}
+.video-icon {
+    width: 55px;
+    height: 55px;
+    background: white;
+    border-radius: 50%;
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+    place-items: center;
+    display: grid;
+    cursor: pointer;
+}
+/*****Other-area End*****/
+
+
+
+/*****Testimonial-area Start*****/
+.testimonial-area {
+    padding-top: 100px;
+}
+.title-text {
+    font-size: 36px;
+    line-height: 54px;
+    color: #413960;
+    font-weight: bold;
+    margin-bottom: 60px;
+}
+.testimonial-inner p {
+    margin-top: 40px;
+    margin-left: 60px;
+}
+/*****Testimonial-area End*****/
+
+
+/*****subscribe-area start*****/
+.subscribe-inner {
+    background: #F0FFF0;
+    padding: 50px 0px;
+    border-radius: 20px;
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+.subscribe-inner .button {
+    margin-top: 20px;
+}
+/*****subscribe-area End*****/
+
+/*****Footer Area Start*****/
+.footer-section {
+    padding-top: 100px;
+    background: black;
+    color: white;
+}
+.footer-section .container {
+    padding-bottom: 20px;
+}
+.footer-p p {
+    line-height: 30px;
+    margin-bottom: 5px;
+}
+.footer-section a {
+    text-decoration: none;
+    color: white;
+
+}
+.footer-list-item ul li {
+    line-height: 30px;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.footer-list-item ul li:nth-child(1) {
+    font-weight: 600;
+}
+small {
+    font-size: 16px;
+    line-height: 30px;
+    color: #CDCDCD;
+}
+.copyright {
+    margin-top: 50px;
+}
+/*****Footer Area End*****/
